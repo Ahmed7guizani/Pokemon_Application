@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pokemon List</string>
+    <string name="connecter"> Bienvenue log in </string>
+    <string name="login">Login</string>
+    <string name="SVPLogin">login</string>
+    <string name="password">Password</string>
+    <string name="Password1">password</string>
+    <string name="connecter1">Log in</string>
+    <string name="sinscrire1">inscrivez-vous</string>
+    <string name="Enregistrement">Bienvenue Enregistrement</string>
+    <string name="login_register">New login</string>
+    <string name="votre_password">Enter votre mot de passe</string>
+    <string name="Password4">Nouveaux password</string>
+    <string name="finisher">Envoyer</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+    <string name="example_application">Example application</string>
+    <string name="img_done">imgtodo</string>
+</resources>
