@@ -48,7 +48,7 @@ class ListAdapter(
         parent: ViewGroup,
         viewType: Int
     ): ViewHolder {
-        // create a new view
+
         val inflater = LayoutInflater.from(
             parent.context
         )
